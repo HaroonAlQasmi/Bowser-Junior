@@ -10,6 +10,7 @@ else:
         sum += num
         num -= 1
     print("\nThe sum is", sum)
+    print("\n**********")
 print("\n the test was successful")
 print("\n End of Program")
 print("\n")

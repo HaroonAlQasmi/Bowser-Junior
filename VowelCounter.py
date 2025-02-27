@@ -11,3 +11,5 @@ while program_is_on:
                 vowels_count += 1
         print("The Number of Vowels in", user_input, "is", vowels_count)
         program_is_on = False
+
+print("Program Terminated")
